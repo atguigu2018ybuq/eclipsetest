@@ -15,5 +15,10 @@ public class GitHubTestImpl implements GitHubTest {
 		//left edit
 		//fixed
 	}
+	
+	
+	public void debug() {
+		System.out.println("debug");
+	}
 
 }
