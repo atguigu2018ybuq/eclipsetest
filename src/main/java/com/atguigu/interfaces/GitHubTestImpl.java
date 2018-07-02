@@ -9,6 +9,7 @@ public class GitHubTestImpl implements GitHubTest {
 		// TODO Auto-generated method stub
 		System.out.println("hehe");
 		//hehe
+		//haha
 	}
 
 }
