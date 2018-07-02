@@ -16,5 +16,10 @@ public class GitHubTestImpl implements GitHubTest {
 		//fixed
 		//fasd
 	}
+	
+	
+	public void debug() {
+		System.out.println("debug");
+	}
 
 }
